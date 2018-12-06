@@ -4,9 +4,12 @@ Danabe is a socia network specifically designed for students that want to become
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Basic rules
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+There are two main rules that we must follow in this social network:
+
+1.- Active participation
+2.- Respect (haters, get out of here)
 
 ```markdown
 Syntax highlighted code block
